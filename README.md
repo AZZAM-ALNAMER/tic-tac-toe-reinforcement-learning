@@ -64,3 +64,9 @@ The pipeline consists of:
 ## Neural Network Architecture
 A Multi-Layer Perceptron (MLP) approximates the Q-function:
 
+## 🎥 Project Demo
+A full video demonstration of the training process and agent behavior is available here:  
+👉 [Watch the demo on YouTube](
+https://www.youtube.com/watch?v=UQ8TXct-5ko)
+
+
